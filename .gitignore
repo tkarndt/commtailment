@@ -1,0 +1,16 @@
+env/
+__pycache__/
+data/
+
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+.ropeproject/
